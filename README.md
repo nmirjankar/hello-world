@@ -1,11 +1,10 @@
 # hello-world
-my first repo!
+my first test repo on GitHub!
 
 Hi, 
 
-I am Nikhil, an Analytical Chemist and Chemical Engineering and an aspiring Data Scientist. 
-I want to develop novel applications in Biomedical research with Multi-Omics and Machine Learning/AI.
+I am Nikhil, a R&D Data Scientist with a background in Analytical Chemistry and Chemical Engineering. 
+I want to develop novel applications in Biomedical research with Machine Learning/AI and Multi-Omics.
 
-Currently I am learning Python and LIMS.
-
-Lets collaborate with great ideas!!
+Currently I am working on developing ML/Deep Learning applications for Metabolomics research and biomarker discovery.
+Looking to collaborate on a Deep Learning project.
