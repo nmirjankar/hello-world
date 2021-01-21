@@ -1,5 +1,6 @@
 # hello-world
-my first test repo on GitHub!
+GitHub repo test.
+My first repo test on GitHub!
 
 Hi, 
 
